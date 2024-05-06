@@ -1,0 +1,72 @@
+[
+  {
+    "title": "1. Kung Fu Panda 4",
+    "weekendGross": "$58M",
+    "totalGross": "$63M",
+    "weeksReleased": "1",
+    "rating": "6.6 (5.2K)"
+  },
+  {
+    "title": "2. Dune: Part Two",
+    "weekendGross": "$46M",
+    "totalGross": "$162M",
+    "weeksReleased": "2",
+    "rating": "8.9 (205K)"
+  },
+  {
+    "title": "3. Imaginary",
+    "weekendGross": "$9.9M",
+    "totalGross": "$11M",
+    "weeksReleased": "1",
+    "rating": "4.9 (2.2K)"
+  },
+  {
+    "title": "4. Cabrini",
+    "weekendGross": "$7.2M",
+    "totalGross": "$7.9M",
+    "weeksReleased": "1",
+    "rating": "8.1 (1.4K)"
+  },
+  {
+    "title": "5. Bob Marley: One Love",
+    "weekendGross": "$4.1M",
+    "totalGross": "$90M",
+    "weeksReleased": "4",
+    "rating": "6.5 (13K)"
+  },
+  {
+    "title": "6. Ordinary Angels",
+    "weekendGross": "$2M",
+    "totalGross": "$16M",
+    "weeksReleased": "3",
+    "rating": "7.8 (1.4K)"
+  },
+  {
+    "title": "7. Madame Web",
+    "weekendGross": "$1.1M",
+    "totalGross": "$43M",
+    "weeksReleased": "4",
+    "rating": "3.7 (33K)"
+  },
+  {
+    "title": "8. Migration",
+    "weekendGross": "$1.1M",
+    "totalGross": "$125M",
+    "weeksReleased": "12",
+    "rating": "6.7 (19K)"
+  },
+  {
+    "title": "9. Yolo",
+    "weekendGross": "$828K",
+    "totalGross": "$911K",
+    "weeksReleased": "1",
+    "rating": "6.8 (891)"
+  },
+  {
+    "title": "10. Episode #4.7",
+    "weekendGross": "$745K",
+    "totalGross": "$3.3M",
+    "weeksReleased": "2",
+    "rating": "8.9 (63)"
+  }
+]

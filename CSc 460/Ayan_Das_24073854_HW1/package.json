@@ -1,0 +1,22 @@
+{
+    "name": "imdb-web-scraper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "commonjs",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.7",
+        "cheerio": "^1.0.0-rc.12",
+        "danfojs": "^0.1.1",
+        "danfojs-node": "^1.1.2",
+        "json2csv": "^6.0.0-alpha.2",
+        "papaparse": "^5.4.1"
+    }
+}
